@@ -26,3 +26,5 @@ nubis/builder/artifacts/*
 
 # WebStorm
 .idea/
+
+.env
