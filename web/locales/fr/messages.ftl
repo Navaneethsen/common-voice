@@ -190,6 +190,7 @@ logout = Déconnexion
 ## Home Page
 
 home-title = Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment.
+default-tagline = Le projet Common Voice de Mozilla aide à apprendre aux machines comment les humains parlent vraiment.
 home-cta = Faites don de votre voix, contribuez ici !
 wall-of-text-start = La voix est naturelle, la voix est humaine. C’est pour cela que nous souhaitons créer des technologies vocales de qualité pour nos machines. Mais réaliser de tels systèmes requiert un gigantesque volume de données vocales.
 wall-of-text-more-mobile = La plupart des données utilisées par les grandes sociétés ne sont pas mises à la disposition de monsieur ou madame Tout-le-monde. Nous pensons que cela freine l’innovation. C’est pour cela que le projet Common Voice existe, c’est un projet qui facilite l’accès à la reconnaissance vocale, pour tout le monde.
@@ -385,6 +386,10 @@ faq-what-cv-a =
     Les technologies de reconnaissance vocale révolutionnent notre façon d’interagir avec les machines, mais les systèmes disponibles sont chers et propriétaires. Common Voice fait partie des activités de Mozilla qui ont pour but d’améliorer les technologies de reconnaissance vocale et de les rendre plus accessibles à tous et à toutes. Common Voice est une immense base de données d’enregistrements vocaux qui permet à n’importe qui de facilement et rapidement entraîner des applications interagissant avec la voix, potentiellement dans toutes les langues.
     
     Nous ne collectons pas seulement des enregistrements de voix dans les langues les plus parlées, mais aussi dans celles qui n’ont qu’un petit nombre de locuteurs. La publication d’un échantillon diversifié de voix permettra aux développeurs, entrepreneurs et communautés de surmonter ce handicap. Outre le jeu de données Common Voice, nous développons également un moteur de reconnaissance vocale libre et open source appelé Deep Speech.
+faq-what-cv-a-2 =
+    Les technologies de reconnaissance vocale révolutionnent notre façon d’interagir avec les machines, mais les systèmes disponibles sont chers et propriétaires. Common Voice de Mozilla a pour but d’améliorer les technologies de reconnaissance vocale et de les rendre plus accessibles à tous et à toutes. Common Voice est une immense base de données d’enregistrements vocaux qui permet à n’importe qui de facilement et rapidement entraîner des applications interagissant avec la voix, potentiellement dans toutes les langues.
+    
+    Nous ne collectons pas seulement des enregistrements de voix dans les langues les plus parlées, mais aussi dans celles qui n’ont qu’un petit nombre de locuteurs. La publication d’un échantillon diversifié de voix permettra aux développeurs, entrepreneurs et communautés de surmonter ce handicap.
 faq-why-important-q = Pourquoi est-ce important ?
 faq-why-important-a =
     La parole est souvent le moyen le plus naturel de communiquer les uns avec les autres et les technologies vocales apportent ce confort à nos ordinateurs et appareils mobiles. Nous voulons donner aux développeurs et développeuses les moyens de créer des applications de reconnaissance vocale étonnantes, telles que des traducteurs en temps réel et des assistants numériques à commandes vocales. Mais pour le moment, la plupart des données vocales nécessaires à la création de ce type d’applications sont coûteuses et propriétaires. Nous espérons que le jeu de données Common Voice donnera aux développeurs et développeuses ce dont ils ont besoin pour innover et rendre la technologie de la parole disponible dans leur propre langue.
@@ -442,6 +447,9 @@ about-title = Pourquoi Common Voice ?
 about-subtitle = Common Voice fait partie de l’initiative de Mozilla aidant les machines à apprendre comment parlent les vraies personnes. Outre le jeu de données Common Voice, nous créons également un moteur de reconnaissance vocale open source appelé Deep Speech.
 about-header-description =
     Ces deux projets font partie de nos efforts pour réduire la fracture de la parole numérisée. Les technologies de reconnaissance vocale apportent une dimension humaine à nos appareils, mais les développeurs et développeuses ont besoin d’une énorme quantité de données vocales pour les concevoir. Actuellement, la plupart de ces données sont coûteuses et propriétaires.
+    Nous voulons rendre les données vocales librement et publiquement accessibles, et nous assurer que les données représentent la diversité de personnes réelles. Ensemble, nous pouvons améliorer la reconnaissance vocale pour tous et toutes.
+about-header-description-2 =
+    Ce projet vise à réduire la fracture de la parole numérisée. Les technologies de reconnaissance vocale apportent une dimension humaine à nos appareils, mais les développeurs et développeuses ont besoin d’une énorme quantité de données vocales pour les concevoir. Actuellement, la plupart de ces données sont coûteuses et propriétaires.
     Nous voulons rendre les données vocales librement et publiquement accessibles, et nous assurer que les données représentent la diversité de personnes réelles. Ensemble, nous pouvons améliorer la reconnaissance vocale pour tous et toutes.
 how-does-it-work-title = Mode d’emploi
 how-does-it-work-text = Nous appelons à la participation collective pour constituer un jeu de données open source de voix. Donnez votre voix, validez la précision des échantillons d’autres personnes, améliorez le jeu de données pour tout le monde.
@@ -911,6 +919,7 @@ contribution-misreadings-example-2-explanation = [Devrait être « Les » dino
 contribution-misreadings-example-3-title = Les dinosaures géants du Tria-.
 contribution-misreadings-example-3-explanation = [Enregistrement coupé avant la fin du dernier mot]
 contribution-misreadings-example-4-title = Les dinosaures géants du Trias. Oui.
+contribution-misreadings-example-4-explanation = [Plus que le texte requis a été enregistré]
 contribution-misreadings-example-5-title = Surement, il fera beau.
 contribution-misreadings-example-5-explanation = [Contenu sans rapport]
 contribution-misreadings-example-6-title = Surment, il fera beau.

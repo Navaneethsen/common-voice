@@ -190,6 +190,7 @@ logout = Clauder session
 ## Home Page
 
 home-title = Le projecto Common Voice es un initiativa de Mozilla pro adjutar a inseniar al machinas como parla le personas real.
+default-tagline = Mozilla Common Voice es un initiativa pro adjutar a inseniar al machinas como parla le personas real.
 home-cta = Face audir de te, contribue ora!
 wall-of-text-start = Le voce es natural, le voce es human. Ecce proque nos es fascinate del idea de crear technologia vocal utile pro nostre machinas. Ma pro crear systemas vocal es necessari un grandissime quantitate de datos vocal.
 wall-of-text-more-mobile = Le major parte del datos usate per le grande companias non es disponibile al majoritate del personas. Nos pensa que isto suffoca le innovation. Dunque nos ha lanceate le projecto Common Voice, un projecto pro adjutar a render le recognition de voce disponibile pro omnes.
@@ -437,6 +438,9 @@ about-title = Proque Common Voice?
 about-subtitle = Common Voice es parte del initiativa de Mozilla pro adjutar a inseniar al machinas como parla le personas real. Ultra al collection de datos Common Voice, nos alsi produce un motor open-source de recognition de voce appellate Deep Speech.
 about-header-description =
     Ambe iste projectos face parte de nostre effortios pro construer un ponte super le division digital vocal. Le technologias de recognition vocal apporta un dimension human a nostre apparatos, ma le disveloppatores require un enorme quantitate de datos vocal pro crear los. Actualmente, le major parte de ille datos es costose e proprietari.
+    Nos vole render le datos vocal liberemente e publicamente disponibile e assecurar que le datos representa le diversitate del personas real. Insimul nos pote render le recognition vocal melior pro totes.
+about-header-description-2 =
+    Iste projecto es un effortio pro construer un ponte super le division digital vocal. Le technologias de recognition vocal apporta un dimension human a nostre apparatos, ma le disveloppatores require un enorme quantitate de datos vocal pro crear los. Actualmente, le major parte de ille datos es costose e proprietari.
     Nos vole render le datos vocal liberemente e publicamente disponibile e assecurar que le datos representa le diversitate del personas real. Insimul nos pote render le recognition vocal melior pro totes.
 how-does-it-work-title = Como functiona illo?
 how-does-it-work-text = Nos face un grande collecta open-source de voces donate. Dona tu voce, valida le precision del retalios vocal del alteres, rende melior le collection de datos pro totes!

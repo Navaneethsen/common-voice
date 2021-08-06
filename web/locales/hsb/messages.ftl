@@ -190,6 +190,7 @@ logout = Wotzjewić
 ## Home Page
 
 home-title = Projekt Common Voice je iniciatiwa Mozilla, kotraž ma pomhać, mašinam wučić, kak woprawdźići ludźo rěča.
+default-tagline = Mozilla Common Voice je iniciatiwa, kotraž ma pomhać, mašinam wučić, kak woprawdźići ludźo rěča.
 home-cta = Rěčće runjewon, dźěłajće tu sobu!
 wall-of-text-start = Hłós je přirodny, hłós je čłowjeski. Tohodla smy fascinowani, wužitnu hłosowu technologiju za naše mašiny wutworić. Ale, za wutworjenje hłosowych systemow je jara wulke mnóstwo hłosowych datow trěbne.
 wall-of-text-more-mobile = Najwjace datow wužiwane wot wulkich předewzaćow za wjetšinu ludźi přistupne njeje. Myslimy, zo to inowaciju znjemóžnja. Tohodla smy projekt Common Voice startowali, projekt, kotryž kóždemu spóznawanje hłosow spřistupnja.
@@ -388,6 +389,10 @@ change-email-setings = Emejlowu adresu w nastajenjach pod přizjewjenskej identi
 faq-title = Husto stajene prašenja
 faq-what-cv-q = Što Common Voice je?
 faq-what-cv-a = Technologija hłosoweho spóznaća wašnje rewolucionuje, na kotrež z mašinami interagujemy, ale tuchwilu k dispoziciji stejace systemy su drohe a proprietarne. Common Voice je dźěl iniciatiwy Mozilla, technologije hłosoweho spóznaća polěpšić a bóle přistupne činić. Common Voice je hoberska globalna datowa banka darjenych hłosow, kotraž kóždemu zmóžnja, přez hłosy wodźene nałoženja w kóždej rěči spěšnje a lochko trenować.
+faq-what-cv-a-2 =
+    Technologija hłosoweho spóznaća wašnje rewolucionuje, na kotrež z mašinami interagujemy, ale tuchwilu k dispoziciji stejace systemy su drohe a proprietarne. Mozilla Common Voice je iniciatiwa, technologije hłosoweho spóznaće polěpšić a bóle přistupne činić. Common Voice je hoberska globalna datowa banka darjenych hłosow, kotraž kóždemu zmóžnja, přez hłosy wodźene nałoženja w kóždej rěči spěšnje a lochko trenować.
+    
+    Njehromadźimy jenož hłosowe přikłady w daloko rozšěrjenych rěčach, ale tež w tajkich z mjenje rěčnikami. Wozjewjenje wšelakoreje datoweje sadźby hłosow wuwiwarjow, předewzaćelow a zhomadźenstwa wukmani, tutu dźěru sami wupjelnić.
 faq-why-important-q = Čehodla je wažne?
 faq-why-important-a =
     Rěčenje je husto najpřirodniše wašnje, na kotrež jedyn z druhim komunikujemy a hłosowe technologije přinjesu tutu lěpšinu k našim ličakam a mobilnym gratam. Chcemy wuwiwarjow wukmanić, wulkotne nałoženja hłosoweho spóznaća  wuwiwać, na přikład přełožowaki, kotrež we woprawdźitym času přełožuja a přez hłós wodźene digitalne asistenty. Ale tuchwilu je najwjace hłosowych datow, kotrež su trěbne za wuwiwanje tajkich nałoženjow, su drohe a proprietarne. Nadźijamy so, zo datowa sadźba Common Voice wuwiwarjam da, štož trjebaja, zo bychu rěčensku technologiju w swojej rěči wobnowili a wutworili.
@@ -445,6 +450,9 @@ about-title = Čehodla Common Voice?
 about-subtitle = Common Voice je dźěl iniciatiwy Mozilla, kotraž ma mašiny wučić, kak woprawdźići ludźo rěča. Nimo datoweje sadźby Common Voice, wuwiwamy program za rěčenske spóznaće wotewrjeneho žórła z mjenom Deep Speech.
 about-header-description =
     Wobaj projektaj stej dźěl našich napinanjow, zo byštej mjezotu digitalneho rěčenja přemosćiłoj. Technologije hłosoweho spóznaća čłowjesku dimensiju na naše graty přinjesu, ale wuwiwarjo trjebaja nimoměry wjele hłosowych datow, zo bychu so wutworili. Tuchwilu je najwjace z tutych datow drohe a proprietarne.
+    Chcemy hłosowe daty darmotnje a zjawnje k dispoziciji stajić a zawěsćić, zo daty wšelakorosć woprawdźitych ludźi wotbłyšćuja. Hromadźe móžemy hłosowe spóznaće za kóždeho polěpšić.
+about-header-description-2 =
+    Tutón projekt je napinanje, zo bychmy mjezotu digitalneho rěčenja přemosćiłoj. Technologije hłosoweho spóznaća čłowjesku dimensiju na naše graty přinjesu, ale wuwiwarjo trjebaja nimoměry wjele hłosowych datow, zo bychu so wutworili. Tuchwilu je najwjace z tutych datow drohe a proprietarne.
     Chcemy hłosowe daty darmotnje a zjawnje k dispoziciji stajić a zawěsćić, zo daty wšelakorosć woprawdźitych ludźi wotbłyšćuja. Hromadźe móžemy hłosowe spóznaće za kóždeho polěpšić.
 how-does-it-work-title = Kak to funguje
 how-does-it-work-text = Přeměsćamy datowu sadźbu hłosow wotewrjeneho žórła do dobrowólnikow. Darće swój hłós, přepruwujće dokładnosć klipy druhich wosobow, polěpšće datowu sadźbu za kóždeho.
@@ -926,8 +934,10 @@ demo-dashboard-card-body = Za kóždy darjeny hłosowy klip a kóždy přepruwow
 contribution-criteria-nav = Kriterije
 contribution-criteria-link = Kriterije sobuskutkowanja rozumić
 contribution-criteria-page-title = Kriterije sobuskutkowanja
+contribution-criteria-page-description = Zhońće, na čož dwy dyrbjał dźiwać, hdyž na hłosowe klipy słuchaće, a pomhajće tež swoje hłosowe natočenja wobohaćić!
 contribution-for-example = na přikład
 contribution-misreadings-title = Čitanske zmylki
+contribution-misreadings-description = Přepruwujće při słuchanju jara dokładnje, hač natočenje eksaktnje napisanemu tekstej wotpowěduje; wotpokazajće jo, samo hdyž jenož snadne zmylki su. <br />Jara huste zmylki su:
 contribution-misreadings-description-extended-list-1 = Falowacy <strong>'A'</strong> abo <strong>'The'</strong> na spočatku nahraća.
 contribution-misreadings-description-extended-list-2 = Falowacy <strong>'s'</strong> na kóncu słowa.
 contribution-misreadings-description-extended-list-3 = Kontrakcije při čitanju, na přikład „žno“ město „hižo“ abo nawopak.
